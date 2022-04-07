@@ -1,0 +1,3 @@
+Should've used better plots for distribution such as KDE curves!
+
+hw: 90
